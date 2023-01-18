@@ -1,0 +1,16 @@
+{
+  "name": "openbootcamp",
+  "version": "1.0.0",
+  "description": "primer proyecto con el nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "HolaMundo":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SantiagoBecerra2000/OpenBootCamp/new/main"
+  },
+  "author": "S.B",
+  "license": "ISC"
+}
