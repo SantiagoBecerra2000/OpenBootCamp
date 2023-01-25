@@ -1,7 +1,8 @@
-const Usuario=[ Nombre="Jesus",
- Edad = "22",
- desarrolador= true,
- Fecha = new Date(2,3,2000)]
+const Usuario=[ 
+"Jesus",
+"22",
+true,
+new Date(2,3,2000)]
 
 const libro={
     Nombre : "Misery",
