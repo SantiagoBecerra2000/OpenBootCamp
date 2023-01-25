@@ -1,0 +1,11 @@
+const Nombre="Jesus"
+const Edad = "22"
+const desarrolador= true
+const Fecha = new Date()
+const libro={
+    Nombre : "Misery",
+    autor : "Stephen king",
+    fecha : new Date(8,6,1987),
+}
+console.log(Fecha);
+console.log(libro.fecha)
