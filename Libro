@@ -7,6 +7,7 @@ const libro={
     Nombre : "Misery",
     autor : "Stephen king",
     fecha : new Date(8,6,1987),
+    url:"https://www.cuspide.com/9789875662698/MISERY"
 }
 console.log(Fecha);
 console.log(libro.fecha)
